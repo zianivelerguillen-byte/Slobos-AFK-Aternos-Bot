@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "LegacyProject.aternos.me",
-    "port": "47123,
+    "port": 47123,
     "version": "",
     "try-creative": false
   },
